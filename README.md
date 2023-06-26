@@ -12,8 +12,6 @@
 
 🧑💻 Para analizar estos datos, se empleó un enfoque de data analytics utilizando herramientas como Python y Google Data Studio. Mediante técnicas de visualización y análisis de datos, se creó un dashboard interactivo que muestra la distribución de ventas por región geográfica, categoría de productos y otros aspectos relevantes. Esto permite a los equipos de ventas y marketing tomar decisiones más informadas y desarrollar estrategias efectivas.
 
-⬇️ Junto a nuestro equipo de analistas de datos, colaboramos para compartirles un informe detallado y una presentación visual que resumen los hallazgos clave, tendencias y recomendaciones. Estos recursos proporcionan una visión clara de las oportunidades de crecimiento, los desafíos y las acciones que pueden tomar para mejorar el desempeño de ventas y optimizar los resultados empresariales.
-
 
 LINK DE DASHBOARD :  https://app.powerbi.com/links/enz0fyZXfO?ctid=301f6414-a956-463d-89c1-55175768f8bd&pbi_source=linkShare
 
